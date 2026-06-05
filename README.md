@@ -1,5 +1,5 @@
-Encounter Editor MMVIII by ike9000
-=====================================
+Encounter Editor MMVIII
+===========================
 
 Editor for CMN.NG2 and BTL files from Ninja Gaiden II, 
 Xbox 360 game. GUI Application.
