@@ -8,6 +8,8 @@ chapter-progression data.
 
 There is no source code available. All information on how this tool examines game files can be found in following [documentation](https://github.com/ike9000e/dot-btl-editor-ng2/discussions/1).
 
+[Preview](./im01.png)
+
 [Preview Video, or Basic Tutorial](https://www.youtube.com/watch?v=J5PKTTShcdg)
 
 
@@ -32,3 +34,5 @@ Links
 [Website](https://github.com/ike9000e/encounter-editor-mmviii)
 
 [Format of BTL Files - Work in Progress Documentation](https://github.com/ike9000e/dot-btl-editor-ng2/discussions/1)
+
+
