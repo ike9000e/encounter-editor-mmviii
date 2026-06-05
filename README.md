@@ -14,6 +14,7 @@ Prerequisites
 
 * Game as folder - the extracted ISO into directory.
 *	Chapter-Completed game saves for every chapter of interest. This is to start every game-test session from the begin of the chapter. Since, in essence, mid-chapter saves won't be compatible with any modifications made.
+* Running the game on Xenia emulator. 
 
 
 File Details
