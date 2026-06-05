@@ -6,7 +6,9 @@ Xbox 360 game. GUI Application.
 BTL files define enemy spawn types and other 
 chapter-progression data.
 
-[Preview Video - Basic Tutorial](https://www.youtube.com/watch?v=J5PKTTShcdg)
+There is no source code available. All information on how this tool examines game files can be found in following [documentation](https://github.com/ike9000e/dot-btl-editor-ng2/discussions/1).
+
+[Preview Video, or Basic Tutorial](https://www.youtube.com/watch?v=J5PKTTShcdg)
 
 
 Prerequisites
