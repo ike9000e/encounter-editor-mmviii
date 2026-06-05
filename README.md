@@ -6,6 +6,10 @@ Xbox 360 game. GUI Application.
 BTL files define enemy spawn types and other 
 chapter-progression data.
 
+
+[Basic Video Tutorial](https://www.youtube.com/watch?v=J5PKTTShcdg)
+
+
 File Details
 -------------
 
