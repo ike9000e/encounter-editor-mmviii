@@ -16,9 +16,9 @@ There is no source code available. All information on how this tool examines gam
 Prerequisites
 ----------------
 
-* Game as folder - the extracted ISO into directory. This is only to modify the "cmn.ng2" file. Only its small part is changed, no other game files will be altered.
-*	Chapter-Completed game saves for every chapter of interest. This is to start every game-test session from the begin of the chapter. Since, in essence, mid-chapter saves won't be compatible with any modifications made.
-* Running the game on Xenia emulator. 
+* Game as folder - the extracted ISO into directory. This is to have easy access tp "cmn.ng2" file. Only its small part is changed, no other game files will be altered.
+*	Chapter-Completed game saves for every chapter of interest. This is to start every game-test session from the begin of the chapter. Since, in essence, mid-chapter saves won't be compatible with any modifications made. Example archive can be found [here](https://github.com/ike9000e/dot-btl-editor-ng2/discussions/3#discussion-10214236)
+* Running the game on Xenia emulator.
 
 
 File Details
